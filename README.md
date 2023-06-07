@@ -1,0 +1,2 @@
+# stockity-ind
+Web
